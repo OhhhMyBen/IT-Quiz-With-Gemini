@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which programming language is primarily used for front-end web development?",
+    "options": ["A. Python", "B. JavaScript", "C. C++", "D. PHP"],
+    "correct": "B"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["A. Hyper Text Markup Language", "B. High Text Markup Language", "C. Hyper Text Multiple Language", "D. High Text Multiple Language"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is used to style web pages?",
+    "options": ["A. HTML", "B. CSS", "C. Python", "D. SQL"],
+    "correct": "B"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["A. Computer Style Sheets", "B. Cascading Style Sheets", "C. Creative Style Sheets", "D. Colorful Style Sheets"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the primary purpose of JavaScript in web development?",
+    "options": ["A. Creating databases", "B. Structuring web content", "C. Styling web pages", "D. Adding interactivity to web pages"],
+    "correct": "D"
+  },
+  {
+    "question": "Which HTML tag is used to define a hyperlink?",
+    "options": ["A. <a>", "B. <link>", "C. <href>", "D. <hyperlink>"],
+    "correct": "A"
+  },
+  {
+    "question": "What does DOM stand for in web development?",
+    "options": ["A. Document Object Model", "B. Data Object Model", "C. Digital Object Model", "D. Document Operator Model"],
+    "correct": "A"
+  },
+  {
+    "question": "Which HTML tag is used for a line break?",
+    "options": ["A. <lb>", "B. <br>", "C. <break>", "D. <newline>"],
+    "correct": "B"
+  },
+  {
+    "question": "In CSS, what does the 'position: absolute' property do?",
+    "options": ["A. Centers the element", "B. Sets the element outside of the document flow", "C. Fixes the element to the top", "D. Moves the element to the left"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is NOT a CSS framework?",
+    "options": ["A. Bootstrap", "B. Foundation", "C. Laravel", "D. Bulma"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the default display property of <div>?",
+    "options": ["A. Inline", "B. Block", "C. Inline-block", "D. Flex"],
+    "correct": "B"
+  },
+  {
+    "question": "Which tag is used to create an ordered list in HTML?",
+    "options": ["A. <ul>", "B. <ol>", "C. <li>", "D. <dl>"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the correct HTML tag for adding a background color?",
+    "options": ["A. <background>", "B. <body style='background-color:;'>", "C. <bgcolor>", "D. <color>"],
+    "correct": "B"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["A. Application Programming Interface", "B. Applied Program Interface", "C. Application Process Interface", "D. Application Program Interconnect"],
+    "correct": "A"
+  },
+  {
+    "question": "Which property is used in CSS to change the font of an element?",
+    "options": ["A. text-style", "B. text-font", "C. font-family", "D. font-type"],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following HTML elements is used to create a form?",
+    "options": ["A. <input>", "B. <form>", "C. <button>", "D. <label>"],
+    "correct": "B"
+  },
+  {
+    "question": "In JavaScript, which symbol is used to comment a single line?",
+    "options": ["A. //", "B. /* */", "C. #", "D. <>"],
+    "correct": "A"
+  },
+  {
+    "question": "Which tag is used to embed an image in HTML?",
+    "options": ["A. <img>", "B. <image>", "C. <picture>", "D. <embed>"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the correct syntax to link an external CSS file?",
+    "options": ["A. <style src='styles.css'>", "B. <stylesheet href='styles.css'>", "C. <link rel='stylesheet' href='styles.css'>", "D. <css src='styles.css'>"],
+    "correct": "C"
+  },
+  {
+    "question": "In CSS, which property is used to set the text color?",
+    "options": ["A. font-color", "B. color", "C. text-color", "D. font-style"],
+    "correct": "B"
+  },
+  {
+    "question": "Which programming language is primarily used for front-end web development?",
+    "options": ["A. Python", "B. JavaScript", "C. C++", "D. PHP"],
+    "correct": "B"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["A. Hyper Text Markup Language", "B. High Text Markup Language", "C. Hyper Text Multiple Language", "D. High Text Multiple Language"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is used to style web pages?",
+    "options": ["A. HTML", "B. CSS", "C. Python", "D. SQL"],
+    "correct": "B"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["A. Computer Style Sheets", "B. Cascading Style Sheets", "C. Creative Style Sheets", "D. Colorful Style Sheets"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the primary purpose of JavaScript in web development?",
+    "options": ["A. Creating databases", "B. Structuring web content", "C. Styling web pages", "D. Adding interactivity to web pages"],
+    "correct": "D"
+  },
+  {
+    "question": "Which HTML tag is used to define a hyperlink?",
+    "options": ["A. <a>", "B. <link>", "C. <href>", "D. <hyperlink>"],
+    "correct": "A"
+  },
+  {
+    "question": "What does DOM stand for in web development?",
+    "options": ["A. Document Object Model", "B. Data Object Model", "C. Digital Object Model", "D. Document Operator Model"],
+    "correct": "A"
+  },
+  {
+    "question": "Which HTML tag is used for a line break?",
+    "options": ["A. <lb>", "B. <br>", "C. <break>", "D. <newline>"],
+    "correct": "B"
+  },
+  {
+    "question": "In CSS, what does the 'position: absolute' property do?",
+    "options": ["A. Centers the element", "B. Sets the element outside of the document flow", "C. Fixes the element to the top", "D. Moves the element to the left"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is NOT a CSS framework?",
+    "options": ["A. Bootstrap", "B. Foundation", "C. Laravel", "D. Bulma"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the default display property of <div>?",
+    "options": ["A. Inline", "B. Block", "C. Inline-block", "D. Flex"],
+    "correct": "B"
+  },
+  {
+    "question": "Which tag is used to create an ordered list in HTML?",
+    "options": ["A. <ul>", "B. <ol>", "C. <li>", "D. <dl>"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the correct HTML tag for adding a background color?",
+    "options": ["A. <background>", "B. <body style='background-color:;'>", "C. <bgcolor>", "D. <color>"],
+    "correct": "B"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["A. Application Programming Interface", "B. Applied Program Interface", "C. Application Process Interface", "D. Application Program Interconnect"],
+    "correct": "A"
+  },
+  {
+    "question": "Which property is used in CSS to change the font of an element?",
+    "options": ["A. text-style", "B. text-font", "C. font-family", "D. font-type"],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following HTML elements is used to create a form?",
+    "options": ["A. <input>", "B. <form>", "C. <button>", "D. <label>"],
+    "correct": "B"
+  },
+  {
+    "question": "In JavaScript, which symbol is used to comment a single line?",
+    "options": ["A. //", "B. /* */", "C. #", "D. <>"],
+    "correct": "A"
+  },
+  {
+    "question": "Which tag is used to embed an image in HTML?",
+    "options": ["A. <img>", "B. <image>", "C. <picture>", "D. <embed>"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the correct syntax to link an external CSS file?",
+    "options": ["A. <style src='styles.css'>", "B. <stylesheet href='styles.css'>", "C. <link rel='stylesheet' href='styles.css'>", "D. <css src='styles.css'>"],
+    "correct": "C"
+  },
+  {
+    "question": "In CSS, which property is used to set the text color?",
+    "options": ["A. font-color", "B. color", "C. text-color", "D. font-style"],
+    "correct": "B"
+  },
+  {
+    "question": "What does the 'flex' property do in CSS Flexbox?",
+    "options": ["A. Aligns elements horizontally", "B. Specifies how a flex item will grow or shrink", "C. Sets the background color", "D. Centers text"],
+    "correct": "B"
+  },
+  {
+    "question": "Which HTML tag is used to define a table?",
+    "options": ["A. <table>", "B. <td>", "C. <th>", "D. <tr>"],
+    "correct": "A"
+  },
+  {
+    "question": "Which tag is used to define an internal stylesheet in HTML?",
+    "options": ["A. <style>", "B. <css>", "C. <link>", "D. <stylesheet>"],
+    "correct": "A"
+  },
+  {
+    "question": "Which method is commonly used to fetch data in JavaScript?",
+    "options": ["A. dataFetch()", "B. AJAX()", "C. fetch()", "D. retrieve()"],
+    "correct": "C"
+  },
+  {
+    "question": "What does JSON stand for?",
+    "options": ["A. JavaScript Output Notation", "B. Java Syntax of Nodes", "C. JavaScript Object Notation", "D. Java Structured Objects Notation"],
+    "correct": "C"
+  },
+  {
+    "question": "Which HTML tag is used to create a dropdown list?",
+    "options": ["A. <select>", "B. <dropdown>", "C. <list>", "D. <option>"],
+    "correct": "A"
+  },
+  {
+    "question": "Which CSS property controls the space between items?",
+    "options": ["A. margin", "B. spacing", "C. border", "D. padding"],
+    "correct": "A"
+  },
+  {
+    "question": "Which HTTP method is used to submit data to be processed to a server?",
+    "options": ["A. GET", "B. POST", "C. UPDATE", "D. DELETE"],
+    "correct": "B"
+  },
+  {
+    "question": "What does SVG stand for?",
+    "options": ["A. Structured Vector Graphics", "B. Systematic Vector Graphics", "C. Scalable Vector Graphics", "D. Simple Vector Graphics"],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is NOT a JavaScript data type?",
+    "options": ["A. Boolean", "B. String", "C. Array", "D. Character"],
+    "correct": "D"
+  },
+  {
+    "question": "What does the 'float' property do in CSS?",
+    "options": ["A. Changes the element’s background color", "B. Aligns elements side by side", "C. Centers the element", "D. Adds padding around an element"],
+    "correct": "B"
+  },
+  {
+    "question": "In JavaScript, what is the purpose of 'this' keyword?",
+    "options": ["A. Refers to a function", "B. Refers to the current object", "C. Refers to the previous object", "D. Refers to a variable"],
+    "correct": "B"
+  },
+  {
+    "question": "Which attribute is used to specify an image source in HTML?",
+    "options": ["A. link", "B. href", "C. src", "D. img"],
+    "correct": "C"
+  },
+  {
+    "question": "In CSS, what is the purpose of 'z-index'?",
+    "options": ["A. Controls the element’s opacity", "B. Determines the stacking order of elements", "C. Sets the zoom level", "D. Aligns the element horizontally"],
+    "correct": "B"
+  }
+]
+

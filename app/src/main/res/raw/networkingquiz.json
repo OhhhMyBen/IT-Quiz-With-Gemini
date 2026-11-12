@@ -1,0 +1,342 @@
+[
+  {
+    "question": "What does 'IP' stand for?",
+    "options": ["A. Internet Protocol", "B. Internal Path", "C. Integrated Process", "D. Interface Point"],
+    "correct": "A"
+  },
+  {
+    "question": "Which device connects multiple networks together?",
+    "options": ["A. Switch", "B. Router", "C. Hub", "D. Repeater"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'DNS' stand for?",
+    "options": ["A. Dynamic Name System", "B. Domain Name System", "C. Data Network Service", "D. Domain Network System"],
+    "correct": "B"
+  },
+  {
+    "question": "What type of network topology connects all devices to a central hub?",
+    "options": ["A. Star", "B. Mesh", "C. Ring", "D. Bus"],
+    "correct": "A"
+  },
+  {
+    "question": "Which layer of the OSI model is responsible for end-to-end communication?",
+    "options": ["A. Transport", "B. Network", "C. Data Link", "D. Physical"],
+    "correct": "A"
+  },
+  {
+    "question": "What protocol is used to send emails?",
+    "options": ["A. HTTP", "B. SMTP", "C. FTP", "D. DNS"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the main function of a switch?",
+    "options": ["A. To connect devices within the same network", "B. To route data between different networks", "C. To amplify signals", "D. To store data"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the purpose of a subnet mask?",
+    "options": ["A. To determine the network portion of an IP address", "B. To encrypt data", "C. To assign IP addresses", "D. To monitor traffic"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'NAT' stand for?",
+    "options": ["A. Network Address Translation", "B. Network Access Transmission", "C. Network Address Tracking", "D. Network Allocation Table"],
+    "correct": "A"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["A. HTTP", "B. FTP", "C. HTTPS", "D. Telnet"],
+    "correct": "C"
+  },
+  {
+    "question": "What is a VLAN?",
+    "options": ["A. Virtual Local Area Network", "B. Virtual Long Area Network", "C. Variable Local Area Network", "D. Verified Local Area Network"],
+    "correct": "A"
+  },
+  {
+    "question": "Which device regenerates and amplifies signals in a network?",
+    "options": ["A. Repeater", "B. Router", "C. Switch", "D. Hub"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the maximum length of a CAT5 Ethernet cable?",
+    "options": ["A. 50 meters", "B. 100 meters", "C. 200 meters", "D. 500 meters"],
+    "correct": "B"
+  },
+  {
+    "question": "Which OSI layer deals with physical connections and data transmission?",
+    "options": ["A. Physical", "B. Network", "C. Session", "D. Data Link"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the main function of a firewall?",
+    "options": ["A. To enhance internet speed", "B. To block unauthorized access", "C. To store data", "D. To improve signal strength"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'QoS' stand for in networking?",
+    "options": ["A. Quality of Service", "B. Quantity of Signals", "C. Quality of Signals", "D. Quick Operating System"],
+    "correct": "A"
+  },
+  {
+    "question": "What type of address is a MAC address?",
+    "options": ["A. A hardware address", "B. A logical address", "C. A temporary address", "D. A dynamic address"],
+    "correct": "A"
+  },
+  {
+    "question": "Which protocol is used for transferring files?",
+    "options": ["A. SMTP", "B. FTP", "C. ICMP", "D. SNMP"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a characteristic of a mesh network?",
+    "options": ["A. All devices are interconnected", "B. It uses a central hub", "C. It has a single point of failure", "D. It is easy to expand"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the role of a proxy server?",
+    "options": ["A. To serve as an intermediary for requests from clients", "B. To manage network traffic", "C. To store files", "D. To connect devices directly"],
+    "correct": "A"
+  },
+  {
+    "question": "What does DHCP stand for?",
+    "options": ["A. Dynamic Host Control Protocol", "B. Dynamic Host Configuration Protocol", "C. Domain Host Configuration Protocol", "D. Dynamic Hardware Control Protocol"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the primary purpose of a router?",
+    "options": ["A. To connect devices within the same network", "B. To connect different networks", "C. To amplify signals", "D. To store data"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common default port for HTTP?",
+    "options": ["A. 21", "B. 80", "C. 443", "D. 25"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'bandwidth'?",
+    "options": ["A. The amount of data transferred in a given time", "B. The physical size of cables", "C. The distance between devices", "D. The type of protocol used"],
+    "correct": "A"
+  },
+  {
+    "question": "Which type of network is characterized by high-speed data transfer over short distances?",
+    "options": ["A. WAN", "B. LAN", "C. PAN", "D. MAN"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the purpose of a network topology?",
+    "options": ["A. To define the layout of a network", "B. To enhance network security", "C. To manage IP addresses", "D. To monitor traffic"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a disadvantage of a bus topology?",
+    "options": ["A. Easy to install", "B. Single point of failure", "C. Requires less cable", "D. High speed"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common use for a VPN?",
+    "options": ["A. To secure remote access to a network", "B. To increase internet speed", "C. To connect different LANs", "D. To store data securely"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'ping' do?",
+    "options": ["A. Tests the reachability of a host", "B. Measures bandwidth", "C. Monitors traffic", "D. Manages network settings"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common method for securing Wi-Fi networks?",
+    "options": ["A. WEP", "B. Open access", "C. Using default passwords", "D. None of the above"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'OSI' stand for?",
+    "options": ["A. Open Systems Interconnection", "B. Operating Systems Interface", "C. Online Systems Integration", "D. Open Source Integration"],
+    "correct": "A"
+  },
+  {
+    "question": "What type of protocol is ICMP?",
+    "options": ["A. Connection-oriented", "B. Connectionless", "C. Secure", "D. Encrypted"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a significant benefit of fiber optic cables?",
+    "options": ["A. High data transfer speed", "B. Low installation cost", "C. Shorter distance limits", "D. Easy to install"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'throughput' refer to?",
+    "options": ["A. The actual rate of successful data transfer", "B. The maximum capacity of a network", "C. The time taken to send data", "D. The physical distance of a connection"],
+    "correct": "A"
+  },
+  {
+    "question": "Which network architecture allows for high levels of redundancy?",
+    "options": ["A. Star", "B. Mesh", "C. Bus", "D. Ring"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'LAN' stand for?",
+    "options": ["A. Local Area Network", "B. Large Area Network", "C. Long Area Network", "D. Low Area Network"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a 'loopback address'?",
+    "options": ["A. An address used for testing network interfaces", "B. An external IP address", "C. A private network address", "D. A public IP address"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the main advantage of using IPv6 over IPv4?",
+    "options": ["A. More available addresses", "B. Faster data transfer", "C. Enhanced security", "D. Simplicity"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is a public IP address?",
+    "options": ["A. 192.168.1.1", "B. 10.0.0.1", "C. 172.16.254.1", "D. 8.8.8.8"],
+    "correct": "D"
+  },
+  {
+    "question": "What is a DHCP server responsible for?",
+    "options": ["A. Assigning IP addresses", "B. Managing network traffic", "C. Storing data", "D. Monitoring network performance"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'latency' refer to?",
+    "options": ["A. The delay before data transfer", "B. The speed of data transfer", "C. The amount of data transferred", "D. The bandwidth of a connection"],
+    "correct": "A"
+  },
+  {
+    "question": "What type of addressing does IPv4 use?",
+    "options": ["A. 128-bit", "B. 32-bit", "C. 64-bit", "D. 16-bit"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is an example of a network service?",
+    "options": ["A. DNS", "B. HTML", "C. CSS", "D. XML"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the role of a gateway in a network?",
+    "options": ["A. To connect different networks", "B. To manage traffic within a network", "C. To amplify signals", "D. To store data"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common symptom of network congestion?",
+    "options": ["A. Increased speed", "B. Data loss", "C. Reduced latency", "D. Faster response times"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'WPA' stand for in wireless security?",
+    "options": ["A. Wi-Fi Protected Access", "B. Wireless Protected Area", "C. Wideband Protected Access", "D. Wireless Password Authentication"],
+    "correct": "A"
+  },
+  {
+    "question": "What is 'port forwarding'?",
+    "options": ["A. Redirecting traffic from one IP address and port to another", "B. Blocking all external traffic", "C. Enhancing bandwidth", "D. Assigning static IP addresses"],
+    "correct": "A"
+  },
+  {
+    "question": "What does a network switch operate at?",
+    "options": ["A. Data Link layer", "B. Physical layer", "C. Network layer", "D. Transport layer"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the primary function of a modem?",
+    "options": ["A. To convert digital signals to analog and vice versa", "B. To manage network traffic", "C. To store data", "D. To amplify signals"],
+    "correct": "A"
+  },
+  {
+    "question": "What is an 'intranet'?",
+    "options": ["A. A private network accessible only to an organization", "B. A public network", "C. An external network", "D. A type of VPN"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the main disadvantage of a ring topology?",
+    "options": ["A. Data travels in one direction", "B. Easy to install", "C. High speed", "D. High redundancy"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a primary function of network protocols?",
+    "options": ["A. To define rules for communication", "B. To manage traffic", "C. To store data", "D. To monitor performance"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'SSID' stand for?",
+    "options": ["A. Service Set Identifier", "B. Secure Set Identifier", "C. System Set Identifier", "D. Simple Set Identifier"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the role of the transport layer in the OSI model?",
+    "options": ["A. To provide reliable data transfer", "B. To manage physical connections", "C. To route data", "D. To define network services"],
+    "correct": "A"
+  },
+  {
+    "question": "What type of cable is commonly used for Ethernet connections?",
+    "options": ["A. Fiber optic", "B. Coaxial", "C. Twisted pair", "D. HDMI"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the purpose of NAT?",
+    "options": ["A. To enable multiple devices to share a single public IP address", "B. To secure data transmissions", "C. To enhance bandwidth", "D. To block unauthorized access"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the maximum data rate of 802.11ac Wi-Fi?",
+    "options": ["A. 54 Mbps", "B. 600 Mbps", "C. 1.3 Gbps", "D. 3.2 Gbps"],
+    "correct": "C"
+  },
+  {
+    "question": "What does 'firewall' do in a network?",
+    "options": ["A. Blocks unauthorized access", "B. Increases speed", "C. Stores data", "D. Enhances signal strength"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'FTP' stand for?",
+    "options": ["A. File Transfer Protocol", "B. Fast Transfer Protocol", "C. File Transport Protocol", "D. Fast Transport Protocol"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a 'traceroute' used for?",
+    "options": ["A. To determine the path data takes to reach its destination", "B. To measure bandwidth", "C. To monitor network performance", "D. To block malicious traffic"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common application layer protocol?",
+    "options": ["A. IP", "B. TCP", "C. HTTP", "D. UDP"],
+    "correct": "C"
+  },
+  {
+    "question": "What does 'bandwidth throttling' do?",
+    "options": ["A. Reduces available bandwidth", "B. Increases bandwidth", "C. Improves signal strength", "D. Enhances security"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the purpose of a load balancer?",
+    "options": ["A. To distribute traffic across multiple servers", "B. To block unauthorized access", "C. To increase bandwidth", "D. To store data"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a 'public key' in encryption?",
+    "options": ["A. A key that can be shared with anyone", "B. A secret key known only to the owner", "C. A type of password", "D. A key used to access networks"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'LAN' refer to?",
+    "options": ["A. Local Area Network", "B. Long Area Network", "C. Large Area Network", "D. Low Area Network"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a 'network interface card' (NIC)?",
+    "options": ["A. A hardware component that connects a computer to a network", "B. A software protocol", "C. A type of firewall", "D. A network management tool"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the maximum distance for a CAT6 Ethernet cable?",
+    "options": ["A. 55 meters", "B. 100 meters", "C. 150 meters", "D. 200 meters"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common characteristic of a WAN?",
+    "options": ["A. Covers a large geographical area", "B. Limited to a small area", "C. High-speed connections", "D. Uses fiber optic only"],
+    "correct": "A"
+  }
+]

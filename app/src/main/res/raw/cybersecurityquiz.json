@@ -1,0 +1,397 @@
+[
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": ["A. Virtual Private Network", "B. Virtual Public Network", "C. Variable Private Network", "D. Verified Private Network"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is a common type of malware?",
+    "options": ["A. Firewall", "B. Antivirus", "C. Trojan Horse", "D. Proxy"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the primary purpose of a firewall?",
+    "options": ["A. To clean up viruses", "B. To block unauthorized access", "C. To improve internet speed", "D. To store data securely"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is NOT a strong password?",
+    "options": ["A. 123456", "B. p@$$w0rd!", "C. A1B2C3", "D. QwErTy123!"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'phishing' refer to?",
+    "options": ["A. A method of data encryption", "B. A type of password attack", "C. A fraudulent attempt to obtain sensitive information", "D. A network protocol"],
+    "correct": "C"
+  },
+  {
+    "question": "Which protocol is commonly used for secure web traffic?",
+    "options": ["A. HTTP", "B. FTP", "C. HTTPS", "D. SMTP"],
+    "correct": "C"
+  },
+  {
+    "question": "What is two-factor authentication?",
+    "options": ["A. A single password", "B. Two passwords", "C. Two forms of identification", "D. A biometric scan"],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is a method to secure a wireless network?",
+    "options": ["A. WEP", "B. Open Network", "C. SSID Broadcast", "D. None of the above"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'malware' stand for?",
+    "options": ["A. Malicious Software", "B. Malfunctioning Software", "C. Malicious Web", "D. Malware Program"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a DDoS attack?",
+    "options": ["A. Data Destruction on a Server", "B. Distributed Denial of Service", "C. Direct Denial of Service", "D. Data Download of Service"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a popular antivirus software?",
+    "options": ["A. Microsoft Word", "B. Adobe Photoshop", "C. Norton", "D. Windows Media Player"],
+    "correct": "C"
+  },
+  {
+    "question": "What does 'encryption' do?",
+    "options": ["A. Makes data unreadable", "B. Makes data faster", "C. Increases storage space", "D. Protects hardware"],
+    "correct": "A"
+  },
+  {
+    "question": "What is social engineering?",
+    "options": ["A. Hacking a network", "B. Manipulating people to gain information", "C. Creating fake software", "D. Data analysis"],
+    "correct": "B"
+  },
+  {
+    "question": "Which device helps in preventing unauthorized access to a network?",
+    "options": ["A. Router", "B. Switch", "C. Firewall", "D. Modem"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the main purpose of a password manager?",
+    "options": ["A. To create strong passwords", "B. To store and manage passwords securely", "C. To hack passwords", "D. To reset passwords"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a zero-day exploit?",
+    "options": ["A. A type of malware", "B. A vulnerability exploited on the same day it's discovered", "C. A firewall issue", "D. A security software update"],
+    "correct": "B"
+  },
+  {
+    "question": "What is an IP address?",
+    "options": ["A. Internet Protocol address", "B. Internet Password address", "C. Internet Point address", "D. Internal Protocol address"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the purpose of an SSL certificate?",
+    "options": ["A. To increase website speed", "B. To ensure secure communications over the internet", "C. To improve website design", "D. To track user activity"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'ransomware' do?",
+    "options": ["A. Encrypts files and demands payment for access", "B. Deletes files permanently", "C. Creates fake files", "D. Stores files securely"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the purpose of a security policy?",
+    "options": ["A. To define acceptable use of technology", "B. To outline software features", "C. To improve hardware performance", "D. To enhance user experience"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a botnet?",
+    "options": ["A. A network of infected computers controlled by an attacker", "B. A type of secure network", "C. A network of software programs", "D. A computer virus"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'brute force attack' refer to?",
+    "options": ["A. Using advanced algorithms to hack passwords", "B. Trying every possible combination of passwords", "C. A phishing technique", "D. A type of malware"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the role of an ethical hacker?",
+    "options": ["A. To break into systems illegally", "B. To test and improve security systems", "C. To create viruses", "D. To steal data"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a digital certificate?",
+    "options": ["A. A form of identification for users online", "B. A document that proves ownership of a website", "C. A password protection method", "D. A network protocol"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'data breach' mean?",
+    "options": ["A. Unauthorized access to sensitive data", "B. A network security update", "C. Data loss during a transfer", "D. A type of software"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is a method to prevent phishing?",
+    "options": ["A. Ignore emails", "B. Click on suspicious links", "C. Verify sender's identity", "D. Use a weak password"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the main function of an intrusion detection system (IDS)?",
+    "options": ["A. To manage network traffic", "B. To monitor network activity for suspicious behavior", "C. To encrypt data", "D. To block all network connections"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a 'honeypot' in cybersecurity?",
+    "options": ["A. A method to increase system performance", "B. A trap set to attract and analyze attackers", "C. A type of encryption", "D. A network security tool"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a characteristic of strong passwords?",
+    "options": ["A. Easy to remember", "B. Long and complex", "C. Use common words", "D. Include personal information"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the primary purpose of antivirus software?",
+    "options": ["A. To manage network traffic", "B. To detect and remove malware", "C. To improve internet speed", "D. To block pop-ups"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'endpoint security' refer to?",
+    "options": ["A. Securing individual devices on a network", "B. Protecting servers only", "C. Network security protocols", "D. Physical security measures"],
+    "correct": "A"
+  },
+  {
+    "question": "What is 'social media hacking'?",
+    "options": ["A. Hacking into someone's social media account", "B. Creating social media posts", "C. Marketing on social media", "D. Data analysis for social media"],
+    "correct": "A"
+  },
+  {
+    "question": "What is 'patch management'?",
+    "options": ["A. Installing software updates", "B. Repairing hardware", "C. Deleting unnecessary files", "D. Managing user accounts"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common sign of a phishing email?",
+    "options": ["A. Personalized greeting", "B. Poor grammar and spelling", "C. Professional design", "D. Company logo"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'cryptography' involve?",
+    "options": ["A. Analyzing data", "B. Creating secure communication methods", "C. Storing data", "D. Data visualization"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the purpose of a security audit?",
+    "options": ["A. To analyze user behavior", "B. To assess the effectiveness of security measures", "C. To improve system speed", "D. To create backups"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common way to secure a website?",
+    "options": ["A. Using HTTP", "B. Implementing HTTPS", "C. Allowing open access", "D. Using weak passwords"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'network segmentation'?",
+    "options": ["A. Dividing a network into smaller parts for security", "B. Combining multiple networks into one", "C. Analyzing network traffic", "D. Securing endpoints"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'security through obscurity' mean?",
+    "options": ["A. Hiding information to enhance security", "B. Using complex algorithms", "C. Storing data in encrypted formats", "D. Regularly changing passwords"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common consequence of a data breach?",
+    "options": ["A. Improved security", "B. Loss of customer trust", "C. Increased sales", "D. Enhanced reputation"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'network sniffing' refer to?",
+    "options": ["A. Monitoring network traffic", "B. Cleaning up malware", "C. Enhancing network performance", "D. Blocking network access"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the role of a chief information security officer (CISO)?",
+    "options": ["A. To oversee IT projects", "B. To manage an organization's security strategy", "C. To develop software", "D. To maintain hardware"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'malicious insider threat' refer to?",
+    "options": ["A. External hacking attempts", "B. Employees intentionally compromising security", "C. Software vulnerabilities", "D. Network performance issues"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'fuzz testing'?",
+    "options": ["A. Testing software for security vulnerabilities", "B. Improving software speed", "C. Analyzing user behavior", "D. Developing software"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common feature of a phishing website?",
+    "options": ["A. Professional design", "B. URL mismatches", "C. Secure connection", "D. High traffic"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a digital forensics investigation?",
+    "options": ["A. Analyzing software for bugs", "B. Investigating cyber crimes", "C. Testing network performance", "D. Data entry tasks"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'data encryption' do?",
+    "options": ["A. Converts data into a secure format", "B. Increases data size", "C. Backups data", "D. Cleans up data"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common way to mitigate DDoS attacks?",
+    "options": ["A. Increase bandwidth", "B. Use a DDoS protection service", "C. Disable firewalls", "D. Ignore the attack"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'remote wipe'?",
+    "options": ["A. Deleting data from a device remotely", "B. Backing up data", "C. Updating software", "D. Enhancing performance"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'cyber threat intelligence' involve?",
+    "options": ["A. Gathering information about potential threats", "B. Securing data", "C. Monitoring network traffic", "D. Developing software"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common reason for a cyber attack?",
+    "options": ["A. To enhance security", "B. To steal sensitive information", "C. To improve software", "D. To conduct research"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'security patch' refer to?",
+    "options": ["A. A software update to fix vulnerabilities", "B. A hardware improvement", "C. A network upgrade", "D. A backup method"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the purpose of a penetration test?",
+    "options": ["A. To improve system performance", "B. To identify security vulnerabilities", "C. To analyze user behavior", "D. To create software"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a 'rootkit'?",
+    "options": ["A. A legitimate software tool", "B. A type of malware that allows unauthorized access", "C. A security feature", "D. A network protocol"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'SQL injection' involve?",
+    "options": ["A. A secure coding technique", "B. Injecting malicious SQL code into a database", "C. A type of firewall", "D. A method of data backup"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the role of a security analyst?",
+    "options": ["A. To develop software", "B. To monitor and protect systems", "C. To improve hardware performance", "D. To manage user accounts"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'cross-site scripting' (XSS)?",
+    "options": ["A. A type of network attack", "B. Injecting malicious scripts into webpages", "C. A password management technique", "D. A type of encryption"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common sign of a computer virus?",
+    "options": ["A. Increased system performance", "B. Unexpected crashes", "C. Improved speed", "D. New software installations"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'data loss prevention' (DLP) involve?",
+    "options": ["A. Managing software updates", "B. Preventing unauthorized data access or sharing", "C. Analyzing user behavior", "D. Improving network performance"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a security token?",
+    "options": ["A. A device used to authorize access", "B. A software update", "C. A password recovery tool", "D. A data encryption method"],
+    "correct": "A"
+  },
+  {
+    "question": "What is 'malware as a service' (MaaS)?",
+    "options": ["A. Legitimate software services", "B. Renting malware to launch attacks", "C. Providing antivirus solutions", "D. Data recovery services"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common form of data encryption?",
+    "options": ["A. AES", "B. HTML", "C. CSS", "D. XML"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common consequence of a ransomware attack?",
+    "options": ["A. Increased data access", "B. Loss of access to files", "C. Enhanced system performance", "D. Improved security"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'incident response' refer to?",
+    "options": ["A. Regular software updates", "B. Managing and addressing security breaches", "C. User account management", "D. Enhancing network speed"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'cloud security'?",
+    "options": ["A. Protecting data stored in cloud environments", "B. Securing local servers", "C. Monitoring internet traffic", "D. Managing hardware upgrades"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'physical security' refer to?",
+    "options": ["A. Protecting data with passwords", "B. Protecting hardware and facilities", "C. Encrypting files", "D. Software updates"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a common type of security breach in organizations?",
+    "options": ["A. Software updates", "B. Insider threats", "C. Regular audits", "D. Employee training"],
+    "correct": "B"
+  },
+  {
+    "question": "What does 'tokenization' involve?",
+    "options": ["A. Replacing sensitive data with non-sensitive equivalents", "B. Enhancing password strength", "C. Increasing data storage", "D. Encrypting files"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common method to protect against SQL injection?",
+    "options": ["A. Input validation", "B. Ignoring user input", "C. Using weak passwords", "D. Using open databases"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common form of social engineering?",
+    "options": ["A. Password complexity requirements", "B. Pretexting", "C. Firewall configurations", "D. Software updates"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'cryptanalysis'?",
+    "options": ["A. The study of analyzing cryptographic systems", "B. The development of software", "C. Data entry tasks", "D. Network performance analysis"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'vulnerability assessment' involve?",
+    "options": ["A. Analyzing security flaws", "B. Improving system performance", "C. Data entry", "D. Network speed tests"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common sign of a network breach?",
+    "options": ["A. Increased system performance", "B. Unusual network traffic patterns", "C. Improved security measures", "D. Regular audits"],
+    "correct": "B"
+  },
+  {
+    "question": "What is a 'keylogger'?",
+    "options": ["A. A tool to track user keystrokes", "B. A password recovery method", "C. A type of firewall", "D. A network monitoring tool"],
+    "correct": "A"
+  },
+  {
+    "question": "What does 'web application firewall' (WAF) do?",
+    "options": ["A. Protects web applications from attacks", "B. Monitors network performance", "C. Increases server speed", "D. Stores data securely"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common technique used in password cracking?",
+    "options": ["A. Brute force", "B. Regular audits", "C. Data encryption", "D. Network segmentation"],
+    "correct": "A"
+  },
+  {
+    "question": "What is 'social media engineering'?",
+    "options": ["A. Using social media for marketing", "B. Manipulating users through social media for data theft", "C. Analyzing social media traffic", "D. Enhancing user experience"],
+    "correct": "B"
+  },
+  {
+    "question": "What is 'zero trust security'?",
+    "options": ["A. A network security model that requires verification from everyone", "B. A type of firewall", "C. An encryption method", "D. A data recovery method"],
+    "correct": "A"
+  },
+  {
+    "question": "What is a common method for securing sensitive data?",
+    "options": ["A.Weak passwords", "B. Ignoring data policies", "C. Open access", "D. Data encryption"],
+    "correct": "D"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Which programming language is primarily used for front-end web development?",
+    "options": ["A. Python", "B. JavaScript", "C. C++", "D. PHP"],
+    "correct": "B"
+  },
+  {
+    "question": "Which programming language is known for its simplicity and readability?",
+    "options": ["A. C#", "B. Python", "C. Java", "D. Ruby"],
+    "correct": "B"
+  },
+  {
+    "question": "What does SQL stand for in the context of databases?",
+    "options": ["A. Structured Query Language", "B. Sequential Query Language", "C. Server Query Language", "D. Standard Query Language"],
+    "correct": "A"
+  },
+  {
+    "question": "Which data structure follows the First In First Out (FIFO) principle?",
+    "options": ["A. Stack", "B. Queue", "C. Array", "D. Linked List"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of these is a statically typed programming language?",
+    "options": ["A. Python", "B. Java", "C. JavaScript", "D. Ruby"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the term for a reusable block of code in programming?",
+    "options": ["A. Function", "B. Variable", "C. Object", "D. Array"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is a back-end programming language?",
+    "options": ["A. HTML", "B. CSS", "C. PHP", "D. JavaScript"],
+    "correct": "C"
+  },
+  {
+    "question": "Which programming language is used for iOS app development?",
+    "options": ["A. Swift", "B. Kotlin", "C. JavaScript", "D. Objective-C"],
+    "correct": "A"
+  },
+  {
+    "question": "Which data structure uses nodes to store elements in a hierarchical manner?",
+    "options": ["A. Tree", "B. Stack", "C. Graph", "D. Queue"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the primary purpose of an API in software development?",
+    "options": ["A. Storing data", "B. Transferring data", "C. Allowing communication between different software components", "D. Optimizing performance"],
+    "correct": "C"
+  },
+  {
+    "question": "Which of the following is NOT a relational database management system?",
+    "options": ["A. MySQL", "B. MongoDB", "C. PostgreSQL", "D. SQLite"],
+    "correct": "B"
+  },
+  {
+    "question": "Which sorting algorithm has an average time complexity of O(n log n)?",
+    "options": ["A. Bubble Sort", "B. Quick Sort", "C. Insertion Sort", "D. Selection Sort"],
+    "correct": "B"
+  },
+  {
+    "question": "Which programming language is commonly used for machine learning?",
+    "options": ["A. C#", "B. Java", "C. Python", "D. PHP"],
+    "correct": "C"
+  },
+  {
+    "question": "What is the term for an error in a program that causes it to produce incorrect results?",
+    "options": ["A. Exception", "B. Bug", "C. Glitch", "D. Fault"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["A. SQLite", "B. MongoDB", "C. PostgreSQL", "D. MySQL"],
+    "correct": "B"
+  },
+  {
+    "question": "Which operator is used to compare two values in most programming languages?",
+    "options": ["A. =", "B. ==", "C. !=", "D. <>"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a looping structure in programming?",
+    "options": ["A. If statement", "B. For loop", "C. Switch case", "D. Try-catch"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of these is an object-oriented programming principle?",
+    "options": ["A. Abstraction", "B. Iteration", "C. Recursion", "D. Compilation"],
+    "correct": "A"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["A. Cascading Style Sheets", "B. Computer Style Sheets", "C. Creative Style Sheets", "D. Colorful Style Sheets"],
+    "correct": "A"
+  },
+  {
+    "question": "Which keyword is used to define a constant in many programming languages?",
+    "options": ["A. const", "B. var", "C. let", "D. fixed"],
+    "correct": "A"
+  },
+  {
+    "question": "What is the purpose of version control systems like Git?",
+    "options": ["A. To manage databases", "B. To track changes in code", "C. To optimize code performance", "D. To analyze data"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a type of programming paradigm?",
+    "options": ["A. Procedural", "B. Algorithmic", "C. Boolean", "D. Machine learning"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of these languages is used for Android app development?",
+    "options": ["A. Swift", "B. Kotlin", "C. Ruby", "D. JavaScript"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the output of 2 + 2 in most programming languages?",
+    "options": ["A. '22'", "B. 4", "C. Error", "D. 0"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is a cloud computing platform?",
+    "options": ["A. Node.js", "B. AWS", "C. TensorFlow", "D. Vue.js"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the name of the model used to structure web applications, consisting of Model, View, and Controller?",
+    "options": ["A. MVC", "B. MVVM", "C. REST", "D. SOAP"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of these is used to iterate through elements in an array?",
+    "options": ["A. While loop", "B. For loop", "C. If statement", "D. Case"],
+    "correct": "B"
+  },
+  {
+    "question": "What is the process of finding and fixing errors in a program called?",
+    "options": ["A. Compiling", "B. Debugging", "C. Parsing", "D. Analyzing"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following data types is typically used to store true/false values?",
+    "options": ["A. Integer", "B. Boolean", "C. String", "D. Float"],
+    "correct": "B"
+  },
+  {
+    "question": "Which file format is commonly used for Java bytecode?",
+    "options": ["A. .exe", "B. .class", "C. .py", "D. .jar"],
+    "correct": "B"
+  },
+  {
+    "question": "Which keyword is used to exit a loop prematurely in most programming languages?",
+    "options": ["A. break", "B. continue", "C. return", "D. stop"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": ["A. Docker", "B. Git", "C. Heroku", "D. Jenkins"],
+    "correct": "B"
+  },
+  {
+    "question": "Which programming language is designed for statistical computing and data analysis?",
+    "options": ["A. Java", "B. R", "C. PHP", "D. Swift"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of these is a JavaScript framework for building web applications?",
+    "options": ["A. React", "B. Django", "C. Laravel", "D. Flask"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of these operators checks both value and type equality in JavaScript?",
+    "options": ["A. ==", "B. ===", "C. !=", "D. !=="],
+    "correct": "B"
+  },
+  {
+    "question": "Which programming language is known for its use in embedded systems?",
+    "options": ["A. Ruby", "B. C", "C. PHP", "D. Swift"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is NOT a front-end technology?",
+    "options": ["A. Angular", "B. Node.js", "C. Vue.js", "D. CSS"],
+    "correct": "B"
+  },
+  {
+    "question": "Which sorting algorithm is the most efficient for large datasets?",
+    "options": ["A. Bubble Sort", "B. Merge Sort", "C. Selection Sort", "D. Insertion Sort"],
+    "correct": "B"
+  },
+  {
+    "question": "Which function is used to parse a string into an integer in JavaScript?",
+    "options": ["A. parseInt()", "B. parseFloat()", "C. Number()", "D. int()"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is a back-end framework for Python?",
+    "options": ["A. Flask", "B. Vue.js", "C. React", "D. Angular"],
+    "correct": "A"
+  },
+  {
+    "question": "Which programming language is commonly used to build microservices?",
+    "options": ["A. Go", "B. Swift", "C. Ruby", "D. Perl"],
+    "correct": "A"
+  },
+  {
+    "question": "Which of the following is NOT a primitive data type?",
+    "options": ["A. String", "B. Object", "C. Boolean", "D. Number"],
+    "correct": "B"
+  },
+  {
+    "question": "What does JSON stand for?",
+    "options": ["A. JavaScript Object Notation", "B. JavaScript Output Notation", "C. JavaScript Only Nodes", "D. JavaScript Over Network"],
+    "correct": "A"
+  },
+  {
+    "question": "Which tool is used to compile Java code into bytecode?",
+    "options": ["A. javac", "B. java", "C. javadoc", "D. jdk"],
+    "correct": "A"
+  },
+  {
+    "question": "Which keyword in Python is used to define a function?",
+    "options": ["A. function", "B. def", "C. lambda", "D. fun"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is NOT a database?",
+    "options": ["A. Redis", "B. Apache Kafka", "C. MongoDB", "D. MySQL"],
+    "correct": "B"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["A. //", "B. #", "C. /*", "D. <!--"],
+    "correct": "B"
+  },
+  {
+    "question": "Which function in JavaScript removes whitespace from both ends of a string?",
+    "options": ["A. slice()", "B. trim()", "C. cut()", "D. removeWhitespace()"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of these terms refers to hiding internal details of an object?",
+    "options": ["A. Encapsulation", "B. Inheritance", "C. Polymorphism", "D. Abstraction"],
+    "correct": "A"
+  },
+  {
+    "question": "Which language is known as the 'mother of all programming languages' due to its influence?",
+    "options": ["A. Python", "B. C", "C. Java", "D. Assembly"],
+    "correct": "B"
+  },
+  {
+    "question": "Which of the following is NOT an interpreted language?",
+    "options": ["A. Python", "B. Ruby", "C. Java", "D. JavaScript"],
+    "correct": "C"
+  }
+]
+
